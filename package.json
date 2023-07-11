@@ -10,6 +10,10 @@
     "strapi": "strapi",
     "lint": "eslint ."
   },
+  "engines": {
+    "node": "16.20.1",
+    "npm": "8.19.4"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.0",
     "eslint": "^6.0.0",
